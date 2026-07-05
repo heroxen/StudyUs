@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "StudentOS",
+    "slug": "studentos",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "studentos",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFBF5"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.studentos.app",
+      "infoPlist": {
+        "NSPhotoLibraryUsageDescription": "StudentOS uses your photo library to set your profile picture.",
+        "NSCameraUsageDescription": "StudentOS uses your camera to take a profile photo."
+      }
+    },
+    "android": {
+      "package": "com.studentos.app",
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/images/icon.png"
+    },
+    "plugins": [
+      [
+        "expo-router",
+        {
+          "origin": "https://replit.com/"
+        }
+      ],
+      "expo-font",
+      "expo-web-browser",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/images/icon.png",
+          "color": "#FF6B6B",
+          "defaultChannel": "default"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    }
+  }
+}
