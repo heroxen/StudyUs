@@ -3,7 +3,7 @@ By Heroxen456
 
 **Let's Organize College Life.**
 <p align="center">
-  <img src="docs/images/ChatGPT Image Jul 28, 2026, 09_33_01 PM"
+  <img src="artifacts/student-os/docs/images/ChatGPT Image Jul 28, 2026, 09_33_01 PM"
        alt="StudyUs - Let's Organize College Life"
        width="100%">
 </p>
