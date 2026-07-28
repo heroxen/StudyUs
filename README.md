@@ -1,4 +1,5 @@
 # StudyUs
+By Heroxen456
 
 **Let's Organize College Life.**
 
