@@ -8,7 +8,7 @@ An all-in-one mobile companion for college students that combines academic manag
 ---
 You can install the beta version build on any device for which this build was provisioned it supports Android & IOS.
 Send and open the URL below to install it on a device.
-Downlode Link : https://expo.dev/accounts/hardik456/projects/studyus/builds/6318be2c-58da-4393-b5a2-54d48b961b34
+## Downlode Link : https://expo.dev/accounts/hardik456/projects/studyus/builds/6318be2c-58da-4393-b5a2-54d48b961b34
 
 ## Overview
 
