@@ -5,7 +5,8 @@ By Heroxen456
 <p align="center">
   <img src="artifacts/student-os/docs/images/imgg.png"
        alt="StudyUs - Let's Organize College Life"
-       width="100%">
+       width="50%"
+      hight="50%">
 </p>
 An all-in-one mobile companion for college students that combines academic management (attendance, assignments, classes) with personal life tracking (habits, skills, to-dos) — built for offline-first use with optional cloud backup.
 
