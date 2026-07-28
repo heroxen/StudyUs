@@ -2,7 +2,11 @@
 By Heroxen456
 
 **Let's Organize College Life.**
-
+<p align="center">
+  <img src="docs/images/ChatGPT Image Jul 28, 2026, 09_33_01 PM"
+       alt="StudyUs - Let's Organize College Life"
+       width="100%">
+</p>
 An all-in-one mobile companion for college students that combines academic management (attendance, assignments, classes) with personal life tracking (habits, skills, to-dos) — built for offline-first use with optional cloud backup.
 
 ---
